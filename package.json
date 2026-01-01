@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Lab for Dependabot vulnerabilities",
   "dependencies": {
-    "lodash": "4.17.15"  // Ескі нұсқа, осалдық бар (CVE бар)
+    "lodash": "4.17.21"  // Ескі нұсқа, осалдық бар (CVE бар)
   }
 }
